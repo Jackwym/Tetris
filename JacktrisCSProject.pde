@@ -2,13 +2,7 @@ import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 import processing.sound.*;
 
-//PImage laughing;
 PImage lineClearImage;
-//PImage image1;
-//PImage image2;
-//PImage image3;
-//PImage image4;
-//PImage image5;
 int lineClearOpacity = 0;
 SoundFile file;
 
